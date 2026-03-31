@@ -33,14 +33,17 @@ To simulate a network with topology using Cisco Packet Tracer and verify connect
 
 ## 📊 IP CONNECTIVITY TABLE
 
-| SENDER/RECEIVER | PC0 | PC1 | PC2 | PC3 | PC4 | PC5 |
-|------------------|-----|-----|-----|-----|-----|-----|
-| PC0              |     |     |     |     |     |     |
-| PC1              |     |     |     |     |     |     |
-| PC2              |     |     |     |     |     |     |
-| PC3              |     |     |     |     |     |     |
-| PC4              |     |     |     |     |     |     |
-| PC5              |     |     |     |     |     |     |
+## 🧾 IP Connectivity Table
+
+| SENDER / RECEIVER | PC0 | PC1 | PC2 | PC3 | PC4 | PC5 |
+|-------------------|-----|-----|-----|-----|-----|-----|
+| **PC0**           | ✓   | ✓   | ✓   | ✓   | ✓   | ✓   |
+| **PC1**           | ✓   | ✓   | ✓   | ✓   | ✓   | ✓   |
+| **PC2**           | ✓   | ✓   | ✓   | ✓   | ✓   | ✓   |
+| **PC3**           | ✓   | ✓   | ✓   | ✓   | ✓   | ✓   |
+| **PC4**           | ✓   | ✓   | ✓   | ✓   | ✓   | ✓   |
+| **PC5**           | ✓   | ✓   | ✓   | ✓   | ✓   | ✓   |
+
 
 ## 🗺️ NETWORK DIAGRAM
 ---
@@ -74,6 +77,9 @@ C:\> ipconfig /all
 ## OUTPUT
 ---
 <img width="1088" height="796" alt="image" src="https://github.com/user-attachments/assets/39cc071d-feae-4f5e-b8a6-f2b7a155daf0" />
+
+<img width="1920" height="1080" alt="Screenshot (380)" src="https://github.com/user-attachments/assets/d169dbf6-2e10-431a-8526-287f8252c244" />
+
 
 ## RESULT
 Thus the computers in same network are able to communicate with each other and the communication between them were verified
